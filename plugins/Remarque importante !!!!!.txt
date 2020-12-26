@@ -1,0 +1,1 @@
+le plugin que j'ai utilisé est celui de blocker la rotation de l'écran dans l'application lors de l'utilisation de l'application
